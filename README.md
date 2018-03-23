@@ -15,9 +15,9 @@ Sla deze op/overschrijf  in de map Publish\images
 5. Open nu de html in code ( software Brackets of Notepad of...)
 Volg de code >> pas de links aan.
 
-6.open de css ( software Brackets of Notepad of...)
+6. Open de css ( software Brackets of Notepad of...)
 Pas de links aan.
 
-7.Sla alles op bekijk in een webbrowser.
+7. Sla alles op bekijk in een webbrowser.
 
 * Indien ok: publish on the internet!!
