@@ -1,26 +1,23 @@
 # geoloket
-basis geoloket
 
 Bekijk en afbeelding geoloket2014.JPG. 
 Wens je zoiets voor je gemeente?
 
-download the file
-unzip
+1. Download the file >> unzip
 
-maak een lijst met kaarten die je wenst
-maak deze kaarten op https://www.geopunt.be/kaart
-sla de url's op per kaart
+2. Maak een lijst met kaarten die je wenst.
+3. Maak deze kaarten op https://www.geopunt.be/kaart .
+Sla de url's op per kaart.
 
-maak foto's per kaart
-sla deze op/overschrijf  in de map Publish\images
+4. Maak foto's per kaart.
+Sla deze op/overschrijf  in de map Publish\images
 
-open nu de html in code ( software Brackets of Notepad of...)
-Volg de code
-pas de links aan
+5. Open nu de html in code ( software Brackets of Notepad of...)
+Volg de code >> pas de links aan.
 
-open de css ( software Brackets of Notepad of...)
-pas de links aan
+6.open de css ( software Brackets of Notepad of...)
+Pas de links aan.
 
-sla alles op bekijk in een webbrowser.
+7.Sla alles op bekijk in een webbrowser.
 
-Indien ok: publish on the internet!!
+* Indien ok: publish on the internet!!
