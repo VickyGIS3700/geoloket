@@ -1,6 +1,6 @@
 # geoloket
 
-Bekijk en afbeelding geoloket2014.JPG. 
+Bekijk de afbeelding geoloket2014.JPG. 
 Wens je zoiets voor je gemeente?
 
 1. Download the file >> unzip
@@ -20,4 +20,5 @@ Pas de links aan.
 
 7. Sla alles op bekijk in een webbrowser.
 
-* Indien ok: publish on the internet!!
+Indien ok: publish on the internet!!
+.. Laat me iets weten als het online staat!
