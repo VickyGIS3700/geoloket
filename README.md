@@ -1,7 +1,8 @@
 # geoloket
 basis geoloket
 
-Bekijk en afbeelding 
+Bekijk en afbeelding geoloket2014.JPG. 
+Wens je zoiets voor je gemeente?
 
 download the file
 unzip
